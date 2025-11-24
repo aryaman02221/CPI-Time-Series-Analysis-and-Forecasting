@@ -48,23 +48,6 @@ Each model was evaluated based on:
 
 Final selection was based on error metrics and visual accuracy.
 
----
-
-## 📂 Repository Structure
-
-│── data/
-│ └── Dataset.xlsx # CPI dataset (MoSPI)
-│
-│── notebooks/
-│ ├── Phase_I.ipynb # Decomposition + diagnostics
-│ └── Phase_II.ipynb # Forecasting models
-│
-│── results/
-│ ├── decomposition_plots/
-│ ├── forecast_plots/
-│ └── metrics.csv
-│
-│── README.md
 
 ---
 
